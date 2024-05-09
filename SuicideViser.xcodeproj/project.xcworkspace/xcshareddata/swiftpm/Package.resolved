@@ -1,0 +1,69 @@
+{
+  "originHash" : "0bf8a4df2fd89a20587ead94abaea9a8fca8917fa392dee77fe7e6a90c9c6389",
+  "pins" : [
+    {
+      "identity" : "compactslider",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/buh/CompactSlider",
+      "state" : {
+        "revision" : "6d591a76caecd583ad69fbcd06f2fb83135318c0",
+        "version" : "1.1.5"
+      }
+    },
+    {
+      "identity" : "popovers",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/aheze/Popovers",
+      "state" : {
+        "revision" : "de44c4dd7271ec6413fe350f7efadb14e5e18dce",
+        "version" : "1.3.2"
+      }
+    },
+    {
+      "identity" : "sankey",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/maxhumber/Sankey.git",
+      "state" : {
+        "revision" : "c73266fe6ce621f96d838c424068a81e4c2cbb27",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "spiral",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/buh/Spiral.git",
+      "state" : {
+        "revision" : "c529d2e71152edf6890f5f508689de17936d6e96",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "swiftdate",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/malcommac/SwiftDate.git",
+      "state" : {
+        "revision" : "5d943224c3bb173e6ecf27295611615eba90c80e",
+        "version" : "7.0.0"
+      }
+    },
+    {
+      "identity" : "swiftuix",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftUIX/SwiftUIX.git",
+      "state" : {
+        "revision" : "a5a22a1aaca885c229f475af049d75a6d9144de8",
+        "version" : "0.1.9"
+      }
+    },
+    {
+      "identity" : "swiftyjson",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftyJSON/SwiftyJSON.git",
+      "state" : {
+        "revision" : "b3dcd7dbd0d488e1a7077cb33b00f2083e382f07",
+        "version" : "5.0.1"
+      }
+    }
+  ],
+  "version" : 3
+}
